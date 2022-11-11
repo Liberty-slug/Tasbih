@@ -4,7 +4,7 @@ body{
     background-color: hsl(210, 36%, 96%);
     font-family: 'Poppins', sans-serif;
     display: flex;
-    height: 100vh;
+    height: 90vh;
     justify-content: center;
     align-items: center;
 }
