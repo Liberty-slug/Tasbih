@@ -17,3 +17,15 @@ body{
 #count{
     margin-right: 7px;
 }
+
+@media (max-width: 600px){
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #count{
+        margin-right: 7px;
+    }
+}
