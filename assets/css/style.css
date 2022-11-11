@@ -8,3 +8,12 @@ body{
     justify-content: center;
     align-items: center;
 }
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#count{
+    margin-right: 7px;
+}
